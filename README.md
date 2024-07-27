@@ -5,8 +5,8 @@
 
 ### 计算机网络
 
-1. **GoBackN**
-2. **WebServer**
+1. **GoBackN**：[仓库地址](https://github.com/wyt8/go-back-n)
+2. **WebServer**：[仓库地址](https://github.com/wyt8/web-server)
 
 ### 编译原理与设计
 
