@@ -48,25 +48,60 @@
 
 ### 🚩操作系统
 
-### 🚩移动互联系统分析与设计
+[仓库地址](https://github.com/wyt8/czxt)，包含的内容如下：
+
+1. **编译linux内核**
+2. **生产者-消费者问题**
+3. **内存监视**
+4. **文件复制**
 
 ### 🚩大数据系统开发
 
+1. **文档的倒排索引**：[仓库地址](https://github.com/wyt8/inverted-index)
+
 ### 🚩汇编语言与接口技术
 
+1. **游戏**：[PacMan](https://github.com/YHCnb/PacMan)
+
+### 🚩移动互联系统分析与设计
+
+Waiting
+
 ### 🚩计算机病毒防治
+
+[仓库地址](https://github.com/wyt8/jsjbdfz)，包含的内容如下：
+
+1. **基础静态分析**
+2. **基础动态分析**
+3. **IDA Pro**
+4. **汇编中的C结构**
+5. **Windows恶意程序**
+6. **OllyDbg**
+7. **WinDbg**
+8. **恶意软件行为**
+9. **恶意软件隐蔽启动**
 
 ## ✒️大二下
 
 ### 🚩数据库原理与设计
 
+[仓库地址](https://github.com/wyt8/sjkylysj)，主要为一个上机实验报告
+
 ### 🚩面向对象技术与方法
+
+[仓库地址](https://github.com/wyt8/mxdxjsyff)，包含五次上机实验
 
 ### 🚩数字逻辑
 
+[仓库地址](https://github.com/wyt8/szlj)，包含四次实验
+
 ### 🚩深度学习基础
 
+[仓库地址](https://github.com/wyt8/sdxxjc)，包含五次小作业、大作业和附加作业
+
 ### 🚩Android技术开发基础
+
+Waiting
 
 ## ✒️大二上
 
